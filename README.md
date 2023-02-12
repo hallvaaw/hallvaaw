@@ -26,7 +26,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" title="matplotlib" width="45" height="45"/>
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="seaborn" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" alt="ggplot2" title="ggplot2" width="40" height="45"/>
-    <img src="https://upload.vectorlogo.zone/logos/pocoo_flask/images/5edfb8bf-3da1-455e-98db-91a7b0a955b1.svg" alt="flask" title="flask" width="45" height="45"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="Tauri" title="Tauri" width="45" height="45"/>
+    
 </p>
 
 
@@ -46,3 +47,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1280px-Blender_logo_no_text.svg.png" alt="Blender" title="Blender" width="45" height="45"/>
     <img src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4" alt="Snakemake" title="Snakemake" width="45" height="45"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallvaaw&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
